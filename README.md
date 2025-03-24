@@ -20,3 +20,5 @@
 3.  Creates a new table and name it “Client_A_Contacts” in the new database. Outputs a message to the console that the table was created.
 
 4.  Inserts the data (all rows and columns) from the “NewClientData.csv” file (found in the attached folder) into the table created in part D3.
+
+![Restore-SQL screenshot](https://github.com/user-attachments/assets/a1ea0788-b9a5-41e2-869e-07e3f9760521)
