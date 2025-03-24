@@ -8,6 +8,9 @@
 
 3.  Imports the financePersonnel.csv file (found in the attached directory) into the Active Directory domain and directly into the finance OU.
 
+![Restore-AD screenshot](https://github.com/user-attachments/assets/d23a9ed3-a4b4-4a48-9526-72ced85b13f1)
+
+
 - Restore-SQL.ps1 script
   
 1. Checks for the existence of a database named ClientDB. Outputs a message to the console that indicates if the database exists or if it does not. If it already exists, deletes it and outputs a message to the console that it was deleted.
