@@ -1,4 +1,4 @@
-# Restoring-ActiveDirectory
+# Restoring_AD_and_Database
 
 - Restore-AD.ps1 script
 
